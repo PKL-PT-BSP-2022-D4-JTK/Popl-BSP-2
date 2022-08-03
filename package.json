@@ -1,0 +1,28 @@
+{
+  "name": "popl-bsp",
+  "version": "1.0.0",
+  "description": "Situs web kartu nama digital.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PKL-PT-BSP-2022-D4-JTK/Popl-BSP.git"
+  },
+  "keywords": [
+    "digital",
+    "business",
+    "card"
+  ],
+  "author": "PT BSP",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PKL-PT-BSP-2022-D4-JTK/Popl-BSP/issues"
+  },
+  "homepage": "https://github.com/PKL-PT-BSP-2022-D4-JTK/Popl-BSP#readme",
+  "dependencies": {
+    "express": "^4.18.1",
+    "twilio": "^3.80.0"
+  }
+}
